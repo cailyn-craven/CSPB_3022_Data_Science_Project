@@ -1,4 +1,4 @@
-# CSPB_3022_Data_Science_Project
+# Credit Card Approval Application
 
 Banks need to process high volumes of credit card applications. It would be time intensive, and error prone to manually process these applications. It is also critical that applications are properly approved and denied. Banks do not want to take on the risk of issuing cards to consumers who will default on their payments, but they also do not want to deny credit to consumers who would be good customers.
 
